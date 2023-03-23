@@ -1,0 +1,11 @@
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG002/assemblies/verkko_1.3.1/gfase/HG002_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG01099/assemblies/verkko_1.3.1/gfase/HG01099_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02004/assemblies/verkko_1.3.1/gfase/HG02004_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02071/assemblies/verkko_1.3.1/gfase/HG02071_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02293/assemblies/verkko_1.3.1/gfase/HG02293_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02300/assemblies/verkko_1.3.1/gfase/HG02300_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02647/assemblies/verkko_1.3.1/gfase/HG02647_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG02809/assemblies/verkko_1.3.1/gfase/HG02809_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG03710/assemblies/verkko_1.3.1/gfase/HG03710_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG03927/assemblies/verkko_1.3.1/gfase/HG03927_verkko_gfase_diploid.fasta.gz
+s3://human-pangenomics/submissions/53FEE631-4264-4627-8FB6-09D7364F4D3B--ASM-COMP/HG04228/assemblies/verkko_1.3.1/gfase/HG04228_verkko_gfase_diploid.fasta.gz
